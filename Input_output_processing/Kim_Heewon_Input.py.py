@@ -1,0 +1,12 @@
+color = input("Enter a color ")
+body_part =input("Enter a body part ")
+noun = input("Enter a plural noun ")
+verb = input("Enter a verb ")
+adj1 = input("Enter an adjective ")
+adj2 = input("Enter another adjective ")
+
+print()
+print("Puppy Love")
+print()
+print("Today I saw him again. When he looks at me with those",color,"eyes, it makes my",body_part,"go pitterpat, and I feel as if I have",noun,"in my stomach. When he scrunches his nose, I want to",verb,"him softly.")
+print("He is so ",adj1," and ",adj2,".",sep="")
